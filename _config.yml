@@ -45,3 +45,4 @@ plugins:
 #
 exclude:
   - CLAUDE.md
+  - AGENTS.md
