@@ -114,7 +114,7 @@ details summary {
 
 <strong>Resource Curse in Reverse? Local Political Effects of Transitions from Fossil Fuels</strong>, with Alex Gazmararian, Luke Sanford, and Tyler Simko. <br>
 
-<strong>Explaining Public Support for Special Interests</strong>, with Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer. <br>
+<strong>Soft Power for Sale: Corporate Advertising and Public Support for Special Interests</strong>, with Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer. <br>
 
 <h2 style="margin-top:20px;"><b>Software</b></h2>
 
